@@ -1,0 +1,10 @@
+h1 {
+    font-family: "League Spartan", sans-serif;
+}
+
+.page_heading {
+    background-image: url(bgimg-test.png);
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
